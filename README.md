@@ -54,9 +54,9 @@
 
 [![GitHub](https://img.shields.io/badge/github-%230d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayang7)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sayan-gupta-91664927a/)
 &nbsp;
-[![Email](https://img.shields.io/badge/email-%230d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/email-%230d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sayan.gupta200@gmail.com)
 
 <br/><br/>
 
