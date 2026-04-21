@@ -74,7 +74,7 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayang7&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayang7&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+graph" width="100%" alt="activity graph"/>
 
 <br/>
 

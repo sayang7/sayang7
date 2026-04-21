@@ -7,6 +7,9 @@ on:
   push:
     branches: [master]
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -25,5 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          fqdn: false
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
