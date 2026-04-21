@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════ SPACE HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1e,30:1a0533,60:0d1a3a,100:0a0d1a&height=220&section=header&text=sayang7&fontSize=34&fontColor=AADDFF&animation=twinkling&fontAlignY=42&fontFamily=Press%20Start%202P&desc=i%20build%20things%20here&descAlignY=63&descSize=14&descColor=6688AA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1e,30:1a0533,60:0d1a3a,100:0a0d1a&height=140&section=header&animation=twinkling" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2800&pause=1200&color=AADDFF&center=true&vCenter=true&width=520&lines=sayang7;i+build+things+here)](https://git.io/typing-svg)
 
 <br/>
 
